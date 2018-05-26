@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01 SyntheticFeature", "01 SyntheticFeature.pyproj", "{9E415977-F176-4617-8A58-5B054AA92007}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "02 Validation", "02 Validation.pyproj", "{068ECDC0-5F34-4C01-A4D7-DD10A2E5855D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03 FeatureSets", "03 FeatureSets.pyproj", "{8130A2A8-4185-4868-B31B-331097409B73}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "04 FeatureCrosses", "04 FeatureCrosses.pyproj", "{E3AE75AF-171E-498E-89E0-CECA28B29714}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "05 Classification", "05 Classification.pyproj", "{F84DD2B5-5E67-48DE-9304-08DB3F36F7C7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "06 SparsityL1Regularization", "06 SparsityL1Regularization.pyproj", "{F172A31A-873A-4C4A-93ED-DF8C2B2B3AF4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "07 NeuralNetworks", "07 NeuralNetworks.pyproj", "{067B3111-0AE5-4FEF-8CA3-B9DC8B764211}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "08 ImprovingNNPerformance", "08 ImprovingNNPerformance.pyproj", "{F8019450-E43B-44B0-AF6A-5AD3F09C4BEA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "09 HandwrittenDigits", "09 HandwrittenDigits.pyproj", "{F6D02141-44AE-45B8-9434-D4A8E71621AA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "10 SparseDataEmbeddings", "10 SparseDataEmbeddings.pyproj", "{59CDFE6F-7999-45C4-81BC-6D567D23FA4F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "00 FirstSteps", "00 FirstSteps.pyproj", "{C45D801D-D1F0-47E0-8394-E9723B658421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E415977-F176-4617-8A58-5B054AA92007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E415977-F176-4617-8A58-5B054AA92007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068ECDC0-5F34-4C01-A4D7-DD10A2E5855D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068ECDC0-5F34-4C01-A4D7-DD10A2E5855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8130A2A8-4185-4868-B31B-331097409B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8130A2A8-4185-4868-B31B-331097409B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3AE75AF-171E-498E-89E0-CECA28B29714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3AE75AF-171E-498E-89E0-CECA28B29714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84DD2B5-5E67-48DE-9304-08DB3F36F7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84DD2B5-5E67-48DE-9304-08DB3F36F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F172A31A-873A-4C4A-93ED-DF8C2B2B3AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F172A31A-873A-4C4A-93ED-DF8C2B2B3AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067B3111-0AE5-4FEF-8CA3-B9DC8B764211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067B3111-0AE5-4FEF-8CA3-B9DC8B764211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8019450-E43B-44B0-AF6A-5AD3F09C4BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8019450-E43B-44B0-AF6A-5AD3F09C4BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D02141-44AE-45B8-9434-D4A8E71621AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D02141-44AE-45B8-9434-D4A8E71621AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CDFE6F-7999-45C4-81BC-6D567D23FA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CDFE6F-7999-45C4-81BC-6D567D23FA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45D801D-D1F0-47E0-8394-E9723B658421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45D801D-D1F0-47E0-8394-E9723B658421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A48EF7-10E0-4E0E-8677-3DF81DB7B274}
+	EndGlobalSection
+EndGlobal
